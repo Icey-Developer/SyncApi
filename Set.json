@@ -1,49 +1,41 @@
 [
   {
-  "Brazilian Twist": [
-    "Brazilian Twist",
-    ["Small(+R650)", "Medium(+R600)", "Large(+R550)"],
-    ["Extra Length +R200", "Extra Length +R150", "Extra Length +R100"]
-  ],
-
-  "Normal Twist": [
-    "Normal Twist",
-    ["Small(+R620)", "Medium(+R570)", "Large(+R500)"],
-    ["Extra Length +R150", "Extra Length +R120", "Extra Length +R100"]
-  ],
-
-  "Passion Twist": [
-    "Passion Twist",
-    ["Small(+R620)", "Medium(+R570)", "Large(+R500)"],
-    ["Extra Length +R200", "Extra Length +R150", "Extra Length +R100"]
-  ],
-
-  "Butterfly Locs": [
-    "Butterfly Locs",
-    ["Small(+R800)", "Medium(+R850)", "Large(+R700)"],
-    ["Extra Length +R100", "Extra Length +R120", "Extra Length +R150"]
-  ]
- },
-
- {
-  "Straight back": [
-    "Straight back",
-    ["4 stitch(+R300)", "4 stitch(+R350)", "4 stitch(+R400)", "4 stitch(+R450)", "Small straight back(+R550)"],
-    ["Extra Length +R50", "Extra Length +R70", "Extra Length +R90", "Extra Length +R110", "Extra Length +R150"]
-  ],
-
-  "Straight Up": [
-    "Straight Up",
-    ["Small stitch braids(+R450)", "Medium stitch braids(+R400)", "Small straight up(+R500)"],
-    ["Extra Length +R70", "Extra Length +R50", "Extra Length +R100"]
-  ],
-
-  "Tribal/Fulani": [
-    "Tribal/Fulani",
-    ["Small braids(+R600)", "Medium braids(+R550)", "Large braids(+R500)"],
-    ["Extra Length +R120", "Extra Length +R100", "Extra Length +R80"]
-  ],
-
-
- }
+    "Brazilian Twist": [
+      "Brazilian Twist",
+      ["Small(+R650)", "Medium(+R600)", "Large(+R550)"],
+      ["Extra Length +R200", "Extra Length +R150", "Extra Length +R100"]
+    ],
+    "Normal Twist": [
+      "Normal Twist",
+      ["Small(+R620)", "Medium(+R570)", "Large(+R500)"],
+      ["Extra Length +R150", "Extra Length +R120", "Extra Length +R100"]
+    ],
+    "Passion Twist": [
+      "Passion Twist",
+      ["Small(+R620)", "Medium(+R570)", "Large(+R500)"],
+      ["Extra Length +R200", "Extra Length +R150", "Extra Length +R100"]
+    ],
+    "Butterfly Locs": [
+      "Butterfly Locs",
+      ["Small(+R800)", "Medium(+R850)", "Large(+R700)"],
+      ["Extra Length +R100", "Extra Length +R120", "Extra Length +R150"]
+    ]
+  },
+  {
+    "Straight back": [
+      "Straight back",
+      ["4 stitch(+R300)", "4 stitch(+R350)", "4 stitch(+R400)", "4 stitch(+R450)", "Small straight back(+R550)"],
+      ["Extra Length +R50", "Extra Length +R70", "Extra Length +R90", "Extra Length +R110", "Extra Length +R150"]
+    ],
+    "Straight Up": [
+      "Straight Up",
+      ["Small stitch braids(+R450)", "Medium stitch braids(+R400)", "Small straight up(+R500)"],
+      ["Extra Length +R70", "Extra Length +R50", "Extra Length +R100"]
+    ],
+    "Tribal/Fulani": [
+      "Tribal/Fulani",
+      ["Small braids(+R600)", "Medium braids(+R550)", "Large braids(+R500)"],
+      ["Extra Length +R120", "Extra Length +R100", "Extra Length +R80"]
+    ]
+  }
 ]
