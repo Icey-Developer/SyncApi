@@ -1,98 +1,43 @@
 [
   {
-    "Twist & Locs Braids": {
-      "Brazilian Twist": {
-        "Variations": [
-          {"Type": "Small", "Price": "+R650"},
-          {"Type": "Medium", "Price": "+R600"},
-          {"Type": "Large", "Price": "+R550"}
-        ],
-        "Extra Length": [
-          {"Option": "Extra Length +R200"},
-          {"Option": "Extra Length +R150"},
-          {"Option": "Extra Length +R100"}
-        ]
-      },
-      "Normal Twist": {
-        "Variations": [
-          {"Type": "Small", "Price": "+R620"},
-          {"Type": "Medium", "Price": "+R570"},
-          {"Type": "Large", "Price": "+R500"}
-        ],
-        "Extra Length": [
-          {"Option": "Extra Length +R150"},
-          {"Option": "Extra Length +R120"},
-          {"Option": "Extra Length +R100"}
-        ]
-      },
-      "Passion Twist": {
-        "Variations": [
-          {"Type": "Small", "Price": "+R620"},
-          {"Type": "Medium", "Price": "+R570"},
-          {"Type": "Large", "Price": "+R500"}
-        ],
-        "Extra Length": [
-          {"Option": "Extra Length +R200"},
-          {"Option": "Extra Length +R150"},
-          {"Option": "Extra Length +R100"}
-        ]
-      },
-      "Butterfly Locs": {
-        "Variations": [
-          {"Type": "Small", "Price": "+R800"},
-          {"Type": "Medium", "Price": "+R850"},
-          {"Type": "Large", "Price": "+R700"}
-        ],
-        "Extra Length": [
-          {"Option": "Extra Length +R100"},
-          {"Option": "Extra Length +R120"},
-          {"Option": "Extra Length +R150"}
-        ]
-      }
-    }
+    "name": "Twist & Locs Braids",
+    "Brazilian Twist": [
+      "Brazilian Twist",
+      ["Small(+R650)", "Medium(+R600)", "Large(+R550)"],
+      ["Extra Length +R200", "Extra Length +R150", "Extra Length +R100"]
+    ],
+    "Normal Twist": [
+      "Normal Twist",
+      ["Small(+R620)", "Medium(+R570)", "Large(+R500)"],
+      ["Extra Length +R150", "Extra Length +R120", "Extra Length +R100"]
+    ],
+    "Passion Twist": [
+      "Passion Twist",
+      ["Small(+R620)", "Medium(+R570)", "Large(+R500)"],
+      ["Extra Length +R200", "Extra Length +R150", "Extra Length +R100"]
+    ],
+    "Butterfly Locs": [
+      "Butterfly Locs",
+      ["Small(+R800)", "Medium(+R850)", "Large(+R700)"],
+      ["Extra Length +R100", "Extra Length +R120", "Extra Length +R150"]
+    ]
   },
   {
-    "Stitch Braids": {
-      "Straight back": {
-        "Variations": [
-          {"Type": "4 stitch", "Price": "+R300"},
-          {"Type": "4 stitch", "Price": "+R350"},
-          {"Type": "4 stitch", "Price": "+R400"},
-          {"Type": "4 stitch", "Price": "+R450"},
-          {"Type": "Small straight back", "Price": "+R550"}
-        ],
-        "Extra Length": [
-          {"Option": "Extra Length +R50"},
-          {"Option": "Extra Length +R70"},
-          {"Option": "Extra Length +R90"},
-          {"Option": "Extra Length +R110"},
-          {"Option": "Extra Length +R150"}
-        ]
-      },
-      "Straight Up": {
-        "Variations": [
-          {"Type": "Small stitch braids", "Price": "+R450"},
-          {"Type": "Medium stitch braids", "Price": "+R400"},
-          {"Type": "Small straight up", "Price": "+R500"}
-        ],
-        "Extra Length": [
-          {"Option": "Extra Length +R70"},
-          {"Option": "Extra Length +R50"},
-          {"Option": "Extra Length +R100"}
-        ]
-      },
-      "Tribal/Fulani": {
-        "Variations": [
-          {"Type": "Small braids", "Price": "+R600"},
-          {"Type": "Medium braids", "Price": "+R550"},
-          {"Type": "Large braids", "Price": "+R500"}
-        ],
-        "Extra Length": [
-          {"Option": "Extra Length +R120"},
-          {"Option": "Extra Length +R100"},
-          {"Option": "Extra Length +R80"}
-        ]
-      }
-    }
+    "name": "Stitch Braids",
+    "Straight back": [
+      "Straight back",
+      ["4 stitch(+R300)", "4 stitch(+R350)", "4 stitch(+R400)", "4 stitch(+R450)", "Small straight back(+R550)"],
+      ["Extra Length +R50", "Extra Length +R70", "Extra Length +R90", "Extra Length +R110", "Extra Length +R150"]
+    ],
+    "Straight Up": [
+      "Straight Up",
+      ["Small stitch braids(+R450)", "Medium stitch braids(+R400)", "Small straight up(+R500)"],
+      ["Extra Length +R70", "Extra Length +R50", "Extra Length +R100"]
+    ],
+    "Tribal/Fulani": [
+      "Tribal/Fulani",
+      ["Small braids(+R600)", "Medium braids(+R550)", "Large braids(+R500)"],
+      ["Extra Length +R120", "Extra Length +R100", "Extra Length +R80"]
+    ]
   }
 ]
