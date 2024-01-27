@@ -6,19 +6,19 @@
           ["Bum Length +R100", "Below Bum +R140", "Knee Length +R280"],[]
         ],
         "Small knotless braids" : [
-          "Normal Twist",
+          "Small knotless braids",
           ["Bum Length +R80", "Below Bum +R120", "Knee Length +R230"],[]
         ],
         "Medium knotless braids" : [
-          "Passion Twist",
+          "Medium knotless braids",
           ["Bum Length +R60", "Below Bum +R100", "Knee Length +R210"],[]
         ],
         "Jumbo knotless braids" : [
-          "Jumbo knotless braids(650)",
+          "Jumbo knotless braids",
           ["Bum Length +R100", "Below Bum +R140"],[]
         ],
         "Bob knotless braids" : [
-        "Jumbo knotless braids",
+        "Bob knotless braids",
         ["Small R420", "Medium +R420"],[]
       ]
 
